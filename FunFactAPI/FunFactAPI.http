@@ -1,0 +1,6 @@
+@FunFactAPI_HostAddress = http://localhost:5118
+
+GET {{FunFactAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
