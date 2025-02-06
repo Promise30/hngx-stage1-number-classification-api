@@ -61,6 +61,7 @@ GET /api/classify-number?number=28
   - `ErrorResponse.cs`: Model for error responses.
   - `SuccessResponse.cs`: Model for successful responses.
 - **Program.cs**: Configures the application and services.
+- 
 
 
 
